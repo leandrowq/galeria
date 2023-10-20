@@ -1,0 +1,79 @@
+.i0_3 { 
+	overflow:hidden;
+}
+.e0_3 { 
+	background-color:rgb(190, 10, 10);
+	width:1391px;
+	height:1940px;
+	position:absolute;
+}
+.foto1 { 
+	width:577px;
+	height:433px;
+	position:absolute;
+	left:407px;
+	top:359px;
+	background-image:url(images/1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.foto2 { 
+	width:615px;
+	height:433px;
+	position:absolute;
+	left:80px;
+	top:888px;
+	background-image:url(images/2.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.foto3 { 
+	width:577px;
+	height:436px;
+	position:absolute;
+	left:756px;
+	top:888px;
+	background-image:url(images/3.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.foto4 { 
+	width:577px;
+	height:433px;
+	position:absolute;
+	left:80px;
+	top:1420px;
+	background-image:url(images/4.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.foto5 { 
+	width:577px;
+	height:433px;
+	position:absolute;
+	left:756px;
+	top:1420px;
+	background-image:url(images/5.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.bloco { 
+	background-color:rgba(0, 0, 0, 1);
+	width:577px;
+	height:128px;
+	position:absolute;
+	left:407px;
+	top:95px;
+}
+.Galeria { 
+	color:rgb(243, 241, 241);
+	width:394px;
+	height:73px;
+	position:absolute;
+	left:498px;
+	top:95px;
+	font-family:Inter;
+	text-align:center;
+	font-size:96px;
+	letter-spacing:0;
+}
